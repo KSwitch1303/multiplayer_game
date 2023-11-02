@@ -2,5 +2,18 @@
   "dependencies": {
     "express": "4.18.2",
     "socket.io": "4.6.1"
-  }
+  },
+  "name": "multiplayer-game-main",
+  "description": "This is the official repo for the [Chris Courses Online Multiplayer Game Tutorial](https://www.youtube.com/watch?v=Wcvqnx14cZA) available on YouTube.",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
